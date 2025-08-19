@@ -28,3 +28,15 @@
   --ifm-color-primary-lightest: #2463AE;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+/* Estilos para los botones del menú */
+.theme-doc-sidebar-container .menu__link {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+
+
